@@ -1,0 +1,7 @@
+[
+    { "name": "Plunger", "description": "Heavy-duty plunger for all your plumbing needs.", "price": 12.99, "image": "Images/afric.webp" },
+    { "name": "Pipe Wrench", "description": "Adjustable pipe wrench for tightening and loosening pipes.", "price": 19.99, "image": "Images/afric.webp" },
+    { "name": "Drain Snake", "description": "Flexible drain snake for clearing clogs.", "price": 9.99, "image": "Images/afric.webp" },
+    { "name": "Faucet", "description": "Modern kitchen faucet with pull-down sprayer.", "price": 49.99, "image": "Images/afric.webp" },
+    { "name": "Toilet Repair Kit", "description": "Complete toilet repair kit for fixing leaks and other issues.", "price": 14.99, "image": "Images/afric.webp" }
+]
